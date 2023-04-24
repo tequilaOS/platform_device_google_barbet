@@ -3,7 +3,6 @@
 # product partition
 
 # AiAi
-product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk;PRESIGNED
 product/priv-app/DevicePersonalizationPrebuiltPixel2020/DevicePersonalizationPrebuiltPixel2020.apk;PRESIGNED
 
 # Audio
@@ -270,7 +269,6 @@ product/etc/permissions/com.android.sdm.plugins.dcmo.xml
 product/etc/permissions/com.android.sdm.plugins.diagmon.xml
 product/lib/libdmengine.so
 product/lib/libdmjavaplugin.so
-product/priv-app/CarrierServices/CarrierServices.apk;PRESIGNED
 product/priv-app/CarrierSettings/CarrierSettings.apk;PRESIGNED
 product/priv-app/CarrierWifi/CarrierWifi.apk;PRESIGNED
 product/priv-app/ConnMO/ConnMO.apk
